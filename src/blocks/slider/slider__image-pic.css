@@ -1,0 +1,11 @@
+.slider__image-pic {
+  display: flex;
+  max-width: 1440px;
+  max-height: 700px;
+  flex-shrink: 0;
+  object-fit: cover;
+  filter: brightness(60%);
+}
+/* .slider__image-pic:hover {
+  filter: brightness(60%);
+} */

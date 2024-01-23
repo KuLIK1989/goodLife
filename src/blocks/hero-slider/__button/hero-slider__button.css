@@ -1,0 +1,18 @@
+.hero-slider__button {
+  width: 237px;
+  height: 68px;
+  border-radius: 38.5px;
+  border: none;
+  background: #e43071;
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 37px; /* 231.25% */
+  position: absolute;
+  top: 421px;
+  right: 520px;
+  z-index: 2;
+}

@@ -1,0 +1,17 @@
+.header__nav-list {
+  display: flex;
+  max-height: 18px;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+  flex-direction: row;
+  column-gap: 56px;
+  list-style-type: none;
+  color: #fff;
+  padding: 0;
+  text-wrap: nowrap;
+  margin-top: 44px;
+}
