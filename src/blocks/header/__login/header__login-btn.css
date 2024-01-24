@@ -14,3 +14,6 @@
   line-height: 109.5%; /* 17.52px */
   margin: 25px 41px 26px;
 }
+.header__login-btn:hover {
+  color: #be285e;
+}

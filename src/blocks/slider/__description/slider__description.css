@@ -1,0 +1,16 @@
+.slider__description {
+  width: 475px;
+  height: 106px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+  font-family: "Poppins regular";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  position: absolute;
+  z-index: 2;
+  top: 276px;
+  left: 454px;
+}

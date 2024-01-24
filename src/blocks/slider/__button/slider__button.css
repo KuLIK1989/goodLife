@@ -1,23 +1,18 @@
-.hero-slider__button {
+.slider__button {
   width: 237px;
   height: 68px;
+  background: #e43071;
   border-radius: 38.5px;
   border: none;
-  background: #e43071;
   color: #fff;
   text-align: center;
-  font-family: "Open Sans";
+  font-family: Poppins;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: 37px; /* 231.25% */
   position: absolute;
-  top: 421px;
-  right: 520px;
   z-index: 2;
-  cursor: pointer;
-}
-.hero-slider__button:hover {
-  background-color: #be285e;
-  font-feature-settings: "clig" off, "liga" off;
+  top: 385px;
+  left: 568px;
 }

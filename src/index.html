@@ -37,7 +37,6 @@
           <!-- FIXME: не правильно указан класс.это слайдер врапер -->
           <div class="hero-slider__wrapper">
             <h1 class="hero-slider__title">
-              <!-- TODO: life должна отображаться в другом стиле  -->
               Welcome to Good<span class="hero-slider__span">lyfe</span> Gyms
             </h1>
             <button class="hero-slider__button">See the benefits</button>
@@ -116,6 +115,57 @@
               </p>
               <button class="faq__button">View the FAQ</button>
             </div>
+          </div>
+        </section>
+        <section class="slider">
+          <div class="slider__wrapper">
+            <h2 class="slider__title">Become more than you are.</h2>
+            <p class="slider__description">
+              Staying active is great fun and keeps you healthy. Check out how
+              you can join in.
+            </p>
+            <button class="slider__button">Let’s do it!</button>
+          </div>
+          <!-- Slider main container -->
+          <div class="swiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+              <!-- Slides -->
+              <div class="swiper-slide">
+                <div class="slider__image">
+                  <img
+                    class="slider__image-pic"
+                    src="./images/slider/Woman doing situps.png"
+                    alt=""
+                  />
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="slider__image">
+                  <img
+                    class="slider__image-pic"
+                    src="./images/slider/gym.png"
+                    alt=""
+                  />
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="slider__image">
+                  <img
+                    class="slider__image-pic"
+                    src="./images/slider/shtanga.jpg"
+                    alt=""
+                  />
+                </div>
+              </div>
+              ...
+            </div>
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
           </div>
         </section>
       </main>

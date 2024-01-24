@@ -1,9 +1,8 @@
 .slider__image-pic {
   display: flex;
-  max-width: 1440px;
+  max-width: 1297px;
   max-height: 700px;
-  flex-shrink: 0;
-  object-fit: cover;
+  /* object-fit: cover; */
   filter: brightness(60%);
 }
 /* .slider__image-pic:hover {
