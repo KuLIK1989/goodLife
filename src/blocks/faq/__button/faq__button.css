@@ -1,0 +1,14 @@
+.faq__button {
+  width: 237px;
+  height: 68px;
+  border-radius: 38.5px;
+  border: 2px solid #e43071;
+  color: #e43071;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 37px;
+  background-color: inherit;
+}

@@ -12,8 +12,15 @@
 }
 
 @font-face {
-  font-family: "Poppins";
+  font-family: "Poppins extra bold";
   font-style: normal;
   font-weight: 400;
   src: url("../vendor/fonts/Poppins/Poppins-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../vendor/fonts/Poppins/Poppins-Regular.ttf");
 }

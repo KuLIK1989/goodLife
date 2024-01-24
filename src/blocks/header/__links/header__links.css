@@ -1,4 +1,4 @@
-.header__nav-list {
+.header__links {
   display: flex;
   max-height: 18px;
   text-align: center;
@@ -14,4 +14,5 @@
   padding: 0;
   text-wrap: nowrap;
   margin-top: 44px;
+  cursor: pointer;
 }

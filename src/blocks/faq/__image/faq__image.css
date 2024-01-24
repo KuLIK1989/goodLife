@@ -1,0 +1,11 @@
+.faq__image {
+  max-width: 347px;
+  max-height: 399px;
+}
+.faq__image:last-of-type {
+  width: 241px;
+  height: 359px;
+  position: absolute;
+  top: 144px;
+  left: 199px;
+}

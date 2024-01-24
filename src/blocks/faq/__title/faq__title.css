@@ -1,0 +1,11 @@
+.faq__title {
+  max-width: 417px;
+  max-height: 60px;
+  color: #e43071;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 6px;
+}
