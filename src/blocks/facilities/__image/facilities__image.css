@@ -1,0 +1,12 @@
+.facilities__image {
+  max-width: 444px;
+  max-height: 296px;
+}
+.facilities__image:last-of-type {
+  width: 422px;
+  height: 281px;
+  position: absolute;
+  top: 156px;
+  left: 150px;
+  z-index: -1;
+}

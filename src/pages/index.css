@@ -36,3 +36,12 @@
 @import url(../blocks/slider/__description/slider__description.css);
 @import url(../blocks/slider/__title/slider__title.css);
 @import url(../blocks/slider/__wrapper/slider__wrapper.css);
+
+@import url(../blocks/facilities/facilities.css);
+@import url(../blocks/facilities/__btn/facilities__btn.css);
+@import url(../blocks/facilities/__description/facilities__description.css);
+@import url(../blocks/facilities/__image/facilities__image.css);
+@import url(../blocks/facilities/__left/facilities__left.css);
+@import url(../blocks/facilities/__right/facilities__right.css);
+@import url(../blocks/facilities/__title/facilities__title.css);
+@import url(../blocks/facilities/__wraper/facilities__wraper.css);

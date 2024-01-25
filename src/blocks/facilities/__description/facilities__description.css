@@ -1,0 +1,11 @@
+.facilities__description {
+  max-width: 540px;
+  max-height: 163px;
+  color: var(--Grey-Copy, #424242);
+  font-family: "Poppins regular";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 37px; /* 231.25% */
+  margin-bottom: 20px;
+}
