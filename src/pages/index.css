@@ -48,3 +48,14 @@
 
 @import url(../blocks/stories/stories.css);
 @import url(../blocks/stories/__wraper/stories__wraper.css);
+@import url(../blocks/stories/__title/stories__title.css);
+@import url(../blocks/stories/__subtitle/stories__subtitle.css);
+
+@import url(../blocks/card-left/card-left.css);
+@import url(../blocks/card-left/__author/card-left__author.css);
+@import url(../blocks/card-left/__author/__author-name/card-left__author-name.css);
+@import url(../blocks/card-left/__author/__author-status/card-left__author-status.css);
+@import url(../blocks/card-left/__img/card-left__image.css);
+@import url(../blocks/card-left/__info/card-left__info.css);
+@import url(../blocks/card-left/__subtitle/card-left__subtitle.css);
+@import url(../blocks/card-left/__title/card-left__title.css);

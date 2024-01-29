@@ -1,0 +1,9 @@
+.card-left__title {
+  color: #e43071;
+  font-family: "Poppins";
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 119.2%; /* 45.296px */
+  margin: 35px 27px;
+}

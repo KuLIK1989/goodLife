@@ -1,0 +1,11 @@
+.stories__subtitle {
+  max-width: 322px;
+  max-height: 27px;
+  color: var(--Grey-Two, #424242);
+  font-family: "Poppins";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0;
+}

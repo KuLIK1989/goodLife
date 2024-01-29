@@ -1,0 +1,11 @@
+.card-left__author-status {
+  max-width: 160px;
+  max-height: 34px;
+  color: #969bab;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px; /* 242.857% */
+  margin: 0;
+}

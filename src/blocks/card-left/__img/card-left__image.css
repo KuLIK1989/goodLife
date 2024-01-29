@@ -1,0 +1,8 @@
+.card-left__img {
+  width: 59px;
+  height: 57px;
+  object-fit: cover;
+  border-radius: 317px;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+  margin: 0 17px 38px 66px;
+}
