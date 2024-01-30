@@ -50,6 +50,7 @@
 @import url(../blocks/stories/__wraper/stories__wraper.css);
 @import url(../blocks/stories/__title/stories__title.css);
 @import url(../blocks/stories/__subtitle/stories__subtitle.css);
+@import url(../blocks/stories/__right/stories__right.css);
 
 @import url(../blocks/card-left/card-left.css);
 @import url(../blocks/card-left/__author/card-left__author.css);
@@ -59,3 +60,13 @@
 @import url(../blocks/card-left/__info/card-left__info.css);
 @import url(../blocks/card-left/__subtitle/card-left__subtitle.css);
 @import url(../blocks/card-left/__title/card-left__title.css);
+
+@import url(../blocks/card-right/card-right.css);
+@import url(../blocks/card-right/__author/card-right__author.css);
+@import url(../blocks/card-left/__author/__author-name/card-left__author-name.css);
+@import url(../blocks/card-right/__author/__author-status/card-right__author-status.css);
+@import url(../blocks/card-right/__img/card-right__img.css);
+@import url(../blocks/card-right/__info/card-right__info.css);
+@import url(../blocks/card-right/__subtitle/card-right__subtitle.css);
+@import url(../blocks/card-right/__subtitle/card-right__subtitle.css);
+@import url(../blocks/card-right/__title/card-right__title.css);

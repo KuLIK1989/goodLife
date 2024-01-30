@@ -1,0 +1,11 @@
+.card-right__author-name {
+  max-width: 113px;
+  max-height: 34px;
+  color: #424242;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 34px; /* 188.889% */
+  margin: 0;
+}
