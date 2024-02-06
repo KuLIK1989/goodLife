@@ -86,3 +86,8 @@
 @import url(../blocks/download/__phones-wraper/download__phones-wraper.css);
 @import url(../blocks/download/__phones/download__phones.css);
 @import url(../blocks/download/__subtitle/download__subtitle.css);
+
+@import url(../blocks/social/__links/social__links.css);
+@import url(../blocks/social/__link/social__link.css);
+@import url(../blocks/social/__title/social__title.css);
+@import url(../blocks/social/social.css);

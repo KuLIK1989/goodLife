@@ -1,0 +1,14 @@
+.social__title {
+  margin: 0;
+  width: 126px;
+  height: 60px;
+  color: rgb(228, 48, 113);
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 64px;
+  padding-bottom: 18px;
+}
