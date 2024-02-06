@@ -74,3 +74,15 @@
 
 @import url(../blocks/swiper/swiper-pagination-bullet/swiper-pagination-bullet.css);
 @import url(../blocks/swiper/swiper-pagination-bullet-active/swiper-pagination-bullet-active.css);
+
+@import url(../blocks/mobile/mobile.css);
+@import url(../blocks/mobile/__subtitle/mobile__subtitle.css);
+@import url(../blocks/mobile/__text-block/mobile__text-block.css);
+@import url(../blocks/mobile/__title/mobile__title.css);
+
+@import url(../blocks/download/download.css);
+@import url(../blocks/download/__badges/download__badges.css);
+@import url(../blocks/download/__phone/download__phone.css);
+@import url(../blocks/download/__phones-wraper/download__phones-wraper.css);
+@import url(../blocks/download/__phones/download__phones.css);
+@import url(../blocks/download/__subtitle/download__subtitle.css);

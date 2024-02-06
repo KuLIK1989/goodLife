@@ -1,0 +1,8 @@
+.download__phone {
+  width: 232px;
+  height: 464px;
+  transform: translateY(16px);
+}
+.download__phone:last-of-type {
+  padding-top: 134px;
+}
