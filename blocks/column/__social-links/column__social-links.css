@@ -1,5 +1,5 @@
-.social__links {
+.column__social-links {
   display: flex;
-  width: 510px;
+  width: 144px;
   justify-content: space-between;
 }

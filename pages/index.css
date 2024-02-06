@@ -1,5 +1,5 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
-@import url(../vendor/fonts/normalize.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
 
@@ -91,3 +91,22 @@
 @import url(../blocks/social/__link/social__link.css);
 @import url(../blocks/social/__title/social__title.css);
 @import url(../blocks/social/social.css);
+
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/column/column.css);
+@import url(../blocks/column/__social-link/column__social-link.css);
+@import url(../blocks/column/__social-links/column__social-links.css);
+@import url(../blocks/column/__subtitle/column__subtitle.css);
+@import url(../blocks/column/__title/column__title.css);
+
+@import url(../blocks/column-link/column-link.css);
+@import url(../blocks/column-link/column-link-a/column-link-a.css);
+@import url(../blocks/column-links/column-links.css);
+@import url(../blocks/column-links/__title/column-links__title.css);
+
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__title/contacts__title.css);
+@import url(../blocks/contacts/__img/contacts__img.css);
+@import url(../blocks/contacts/__item/contacts__item.css);
+@import url(../blocks/contacts/__text/contacts__text.css);

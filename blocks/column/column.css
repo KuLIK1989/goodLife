@@ -1,0 +1,9 @@
+.column {
+  width: 255px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 96px;
+  padding-left: 165px;
+}

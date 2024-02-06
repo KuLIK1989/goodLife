@@ -1,0 +1,16 @@
+.column__title {
+  width: 120px;
+  height: 28.24px;
+  font-family: "Poppins";
+  font-size: 25.67px;
+  font-weight: 800;
+  line-height: 109.5%;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  padding-bottom: 24px;
+}
+.column__title span {
+  color: #e43071;
+}
