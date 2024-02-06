@@ -1,7 +1,7 @@
 const swiper = new Swiper(".swiper", {
   navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
+    // nextEl: ".swiper-button-next",
+    // prevEl: ".swiper-button-prev",
   },
   // autoHeight: true,
   keyboard: {
@@ -12,4 +12,7 @@ const swiper = new Swiper(".swiper", {
     el: ".swiper-pagination",
     type: "bullets",
   },
+  // autoplay: {
+  //   delay: 5000,
+  // },
 });

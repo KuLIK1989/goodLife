@@ -1,11 +1,12 @@
 .stories__title {
-  max-width: 414px;
-  max-height: 114px;
+  width: 414px;
+  height: 114px;
   color: var(--Grey-Two, #424242);
   font-family: "Poppins";
   font-size: 48px;
   font-style: normal;
   font-weight: 600;
   line-height: 119.2%; /* 57.216px */
-  margin: 0;
+  margin-bottom: 12px;
+  margin-right: 32px;
 }

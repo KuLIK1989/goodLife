@@ -51,6 +51,7 @@
 @import url(../blocks/stories/__title/stories__title.css);
 @import url(../blocks/stories/__subtitle/stories__subtitle.css);
 @import url(../blocks/stories/__right/stories__right.css);
+@import url(../blocks/stories/__left/stories__left.css);
 
 @import url(../blocks/card-left/card-left.css);
 @import url(../blocks/card-left/__author/card-left__author.css);
@@ -63,10 +64,13 @@
 
 @import url(../blocks/card-right/card-right.css);
 @import url(../blocks/card-right/__author/card-right__author.css);
-@import url(../blocks/card-left/__author/__author-name/card-left__author-name.css);
+@import url(../blocks/card-right/__author/__author-name/card-right__author-name.css);
 @import url(../blocks/card-right/__author/__author-status/card-right__author-status.css);
 @import url(../blocks/card-right/__img/card-right__img.css);
 @import url(../blocks/card-right/__info/card-right__info.css);
 @import url(../blocks/card-right/__subtitle/card-right__subtitle.css);
 @import url(../blocks/card-right/__subtitle/card-right__subtitle.css);
 @import url(../blocks/card-right/__title/card-right__title.css);
+
+@import url(../blocks/swiper/swiper-pagination-bullet/swiper-pagination-bullet.css);
+@import url(../blocks/swiper/swiper-pagination-bullet-active/swiper-pagination-bullet-active.css);

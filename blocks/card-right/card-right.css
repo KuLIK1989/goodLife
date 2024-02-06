@@ -1,11 +1,12 @@
 .card-right {
-  max-width: 349px;
-  max-height: 445px;
+  width: 449px;
+  height: 343px;
   border-radius: 10px;
   background: #fff;
   box-shadow: 1px 4px 8px 0px rgba(0, 0, 0, 0.18);
 }
 .card-right:nth-of-type(2) {
-  max-width: 351px;
-  max-height: 278px;
+  width: 351px;
+  height: 278px;
+  margin-top: 26px;
 }

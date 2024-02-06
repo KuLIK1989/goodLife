@@ -1,7 +1,7 @@
 .stories {
   display: flex;
   justify-content: center;
-  width: 1440px;
+  /* width: 1440px; */
   height: 900px;
   background: linear-gradient(180deg, #fff 0%, rgba(255, 255, 255, 0) 100%),
     #f4e3e9;

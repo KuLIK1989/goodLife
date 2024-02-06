@@ -1,7 +1,7 @@
 .slider__image-pic {
   display: flex;
-  max-width: 1297px;
-  max-height: 700px;
+  width: 1440px;
+  height: 700px;
   /* object-fit: cover; */
   filter: brightness(60%);
 }
