@@ -1,7 +1,7 @@
 .column-links {
   width: 255px;
   display: flex;
-  row-gap: 12px;
+  row-gap: 14px;
   flex-direction: column;
   margin: 0;
   padding-top: 79px;

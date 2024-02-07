@@ -24,3 +24,17 @@
   font-weight: 400;
   src: url("../vendor/fonts/Poppins/Poppins-Regular.ttf");
 }
+
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../vendor/fonts/Manrope/Manrope-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../vendor/fonts/Manrope/Manrope-Medium.ttf");
+}
