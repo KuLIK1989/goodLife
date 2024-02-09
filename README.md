@@ -1,2 +1,3 @@
-#ссылка на проект
- https://kulik1989.github.io/goodLife/
+# Проект лендинга для спортивного клуба
+## Ссылка на проект
+https://kulik1989.github.io/goodLife/
